@@ -1,43 +1,43 @@
 {
   "ion-badge": {
-    "prefix": "ion2-badge",
+    "prefix": "ion3-badge",
     "body": ["<ion-badge $1>$2</ion-badge>"],
     "description": "Badges are small components that typically communicate a numerical value to the user. They are typically used within an item."
   },
   "ion-button": {
-    "prefix": "ion2-button",
+    "prefix": "ion3-button",
     "body": ["<button ion-button $1>$2</button>"]
   },
   "ion-button-outline": {
-    "prefix": "ion2-button-outline",
+    "prefix": "ion3-button-outline",
     "body": ["<button ion-button outline $1>$2</button>"]
   },
   "ion-button-clear": {
-    "prefix": "ion2-button-clear",
+    "prefix": "ion3-button-clear",
     "body": ["<button ion-button clear $1>$2</button>"]
   },
   "ion-button-round": {
-    "prefix": "ion2-button-round",
+    "prefix": "ion3-button-round",
     "body": ["<button ion-button round $1>$2</button>"]
   },
   "ion-button-block": {
-    "prefix": "ion2-button-block",
+    "prefix": "ion3-button-block",
     "body": ["<button ion-button block $1>$2</button>"]
   },
   "ion-button-full": {
-    "prefix": "ion2-button-full",
+    "prefix": "ion3-button-full",
     "body": ["<button ion-button full $1>$2</button>"]
   },
   "ion-button-small": {
-    "prefix": "ion2-button-small",
+    "prefix": "ion3-button-small",
     "body": ["<button ion-button small $1>$2</button>"]
   },
   "ion-button-large": {
-    "prefix": "ion2-button-large",
+    "prefix": "ion3-button-large",
     "body": ["<button ion-button large $1>$2</button>"]
   },
   "ion-button-icon-left": {
-    "prefix": "ion2-button-icon-left",
+    "prefix": "ion3-button-icon-left",
     "body": [
       "<button ion-button icon-left $1>",
       "\t<ion-icon name=\"$2\"></ion-icon>",
@@ -46,7 +46,7 @@
     ]
   },
   "ion-button-icon-right": {
-    "prefix": "ion2-button-icon-right",
+    "prefix": "ion3-button-icon-right",
     "body": [
       "<button ion-button icon-right $1>",
       "\t$2",
@@ -55,7 +55,7 @@
     ]
   },
   "ion-button-icon-only": {
-    "prefix": "ion2-button-icon",
+    "prefix": "ion3-button-icon",
     "body": [
       "<button ion-button icon-only $1>",
       "\t<ion-icon name=\"$2\"></ion-icon>",
@@ -63,15 +63,15 @@
     ]
   },
   "ion-button-fab": {
-    "prefix": "ion2-fab",
+    "prefix": "ion3-fab",
     "body": ["<button ion-fab $1>$2</button>"]
   },
   "ion-button-fab-mini": {
-    "prefix": "ion2-fab-mini",
+    "prefix": "ion3-fab-mini",
     "body": ["<button ion-fab mini $1>$2</button>"]
   },
   "ion-fab-buttons-list": {
-    "prefix": "ion2-fab-list",
+    "prefix": "ion3-fab-list",
     "body": [
       "<ion-fab $1>",
       "\t<button ion-fab $2><ion-icon name=\"$3\"></ion-icon></button>",
@@ -82,7 +82,7 @@
     ]
   },
   "ion-buttons": {
-    "prefix": "ion2-buttons",
+    "prefix": "ion3-buttons",
     "body": [
     "<ion-buttons ${1:position}>",
     "\t$2",
@@ -90,7 +90,7 @@
     ]
   },
   "ion-buttons-start": {
-    "prefix": "ion2-buttons",
+    "prefix": "ion3-buttons",
     "body": [
     "<ion-buttons start>",
     "\t$1",
@@ -98,7 +98,7 @@
     ]
   },
   "ion-buttons-end": {
-    "prefix": "ion2-buttons",
+    "prefix": "ion3-buttons",
     "body": [
     "<ion-buttons end>",
     "\t$1",
@@ -106,7 +106,7 @@
     ]
   },
   "ion-card": {
-    "prefix": "ion2-card",
+    "prefix": "ion3-card",
     "body": [
     "<ion-card>",
     "\t<ion-card-header>",
@@ -119,7 +119,7 @@
     ]
   },
   "ion-card-image": {
-    "prefix": "ion2-card-image",
+    "prefix": "ion3-card-image",
     "body": [
     "<ion-card>",
     "\t<img src=\"$1\"/>",
@@ -135,7 +135,7 @@
     ]
   },
   "ion-card-back-image": {
-    "prefix": "ion2-card-back-image",
+    "prefix": "ion3-card-back-image",
     "body": [
     "<ion-card class=\"card-background-page\">",
     "\t<img src=\"$1\"/>",
@@ -145,7 +145,7 @@
     ]
   },
   "ion-card-social": {
-    "prefix": "ion2-card-social",
+    "prefix": "ion3-card-social",
     "body": [
       "<ion-card>",
       "\t<ion-item>",
@@ -182,7 +182,7 @@
     ]
   },
   "ion-card-map": {
-    "prefix": "ion2-card-map",
+    "prefix": "ion3-card-map",
     "body": [
       "<ion-card>",
       "\t<img src=\"$1\">",
@@ -208,7 +208,7 @@
     ]
   },
   "ion-checkbox": {
-    "prefix": "ion2-checkbox",
+    "prefix": "ion3-checkbox",
     "body": [
       "<ion-item>",
       "\t<ion-label>${1:label}</ion-label>",
@@ -217,7 +217,7 @@
     ]
   },
   "ion-datetime": {
-    "prefix": "ion2-datetime",
+    "prefix": "ion3-datetime",
     "body": [
       "<ion-item>",
       "\t<ion-label>${1:label}</ion-label>",
@@ -226,7 +226,7 @@
     ]
   },
   "ion-grid": {
-    "prefix": "ion2-grid",
+    "prefix": "ion3-grid",
     "body": [
       "<ion-grid>",
       "\t$1",
@@ -234,7 +234,7 @@
     ]
   },
   "ion-row": {
-    "prefix": "ion2-row",
+    "prefix": "ion3-row",
     "body": [
       "<ion-row>",
       "\t$1",
@@ -242,7 +242,7 @@
     ]
   },
   "ion-col": {
-    "prefix": "ion2-col",
+    "prefix": "ion3-col",
     "body": [
       "<ion-col $1>",
       "\t$2",
@@ -250,7 +250,7 @@
     ]
   },
   "ion-col-10": {
-    "prefix": "ion2-col-10",
+    "prefix": "ion3-col-10",
     "body": [
       "<ion-col width-10>",
       "\t$1",
@@ -258,7 +258,7 @@
     ]
   },
   "ion-col-20": {
-    "prefix": "ion2-col-20",
+    "prefix": "ion3-col-20",
     "body": [
       "<ion-col width-20>",
       "\t$1",
@@ -266,7 +266,7 @@
     ]
   },
   "ion-col-25": {
-    "prefix": "ion2-col-25",
+    "prefix": "ion3-col-25",
     "body": [
       "<ion-col width-25>",
       "\t$1",
@@ -274,7 +274,7 @@
     ]
   },
   "ion-col-33": {
-    "prefix": "ion2-col-33",
+    "prefix": "ion3-col-33",
     "body": [
       "<ion-col width-33>",
       "\t$1",
@@ -282,7 +282,7 @@
     ]
   },
   "ion-col-50": {
-    "prefix": "ion2-col-50",
+    "prefix": "ion3-col-50",
     "body": [
       "<ion-col width-50>",
       "\t$1",
@@ -290,7 +290,7 @@
     ]
   },
   "ion-col-67": {
-    "prefix": "ion2-col-67",
+    "prefix": "ion3-col-67",
     "body": [
       "<ion-col width-67>",
       "\t$1",
@@ -298,7 +298,7 @@
     ]
   },
   "ion-col-75": {
-    "prefix": "ion2-col-75",
+    "prefix": "ion3-col-75",
     "body": [
       "<ion-col width-75>",
       "\t$1",
@@ -306,7 +306,7 @@
     ]
   },
   "ion-col-80": {
-    "prefix": "ion2-col-80",
+    "prefix": "ion3-col-80",
     "body": [
       "<ion-col width-80>",
       "\t$1",
@@ -314,7 +314,7 @@
     ]
   },
   "ion-col-90": {
-    "prefix": "ion2-col-90",
+    "prefix": "ion3-col-90",
     "body": [
       "<ion-col width-90>",
       "\t$1",
@@ -322,19 +322,19 @@
     ]
   },
   "ion-icon": {
-    "prefix": "ion2-icon",
+    "prefix": "ion3-icon",
     "body": [
       "<ion-icon name=\"$1\"></ion-icon>"
     ]
   },
   "ion-icon-isactive": {
-    "prefix": "ion2-icon-isactive",
+    "prefix": "ion3-icon-isactive",
     "body": [
       "<ion-icon name=\"$1\" isActive=\"${2:isActive}\"></ion-icon>"
     ]
   },
   "ion-input": {
-    "prefix": "ion2-input",
+    "prefix": "ion3-input",
     "body": [
       "<ion-item>",
       "\t<ion-label $1>$2</ion-label>",
@@ -343,7 +343,7 @@
     ]
   },
   "ion-input-fixed": {
-    "prefix": "ion2-input-fixed",
+    "prefix": "ion3-input-fixed",
     "body": [
       "<ion-item>",
       "\t<ion-label fixed $1>$2</ion-label>",
@@ -352,7 +352,7 @@
     ]
   },
   "ion-input-floating": {
-    "prefix": "ion2-input-floating",
+    "prefix": "ion3-input-floating",
     "body": [
       "<ion-item>",
       "\t<ion-label floating $1>$2</ion-label>",
@@ -361,7 +361,7 @@
     ]
   },
   "ion-input-placeholder": {
-    "prefix": "ion2-input-placeholder",
+    "prefix": "ion3-input-placeholder",
     "body": [
       "<ion-item>",
       "\t<ion-input type=\"$1\" placeholder=\"$2\" $3></ion-input>",
@@ -369,7 +369,7 @@
     ]
   },
   "ion-input-stacked": {
-    "prefix": "ion2-input-stacked",
+    "prefix": "ion3-input-stacked",
     "body": [
       "<ion-item>",
       "\t<ion-label stacked $1>${2: label-text}</ion-label>",
@@ -378,7 +378,7 @@
     ]
   },
   "ion-list": {
-    "prefix": "ion2-list",
+    "prefix": "ion3-list",
     "body": [
       "<ion-list $1>",
       "\t<ion-item *ngFor=\"let $2 of $3\" (click)=\"$4\" $5>",
@@ -388,7 +388,7 @@
     ]
   },
   "ion-list-no-lines": {
-    "prefix": "ion2-list-nolines",
+    "prefix": "ion3-list-nolines",
     "body": [
       "<ion-list no-lines $1>",
       "\t<ion-item *ngFor=\"let $2 of $3\" (click)=\"$4\" $5>",
@@ -398,7 +398,7 @@
     ]
   },
   "ion-list-inset": {
-    "prefix": "ion2-list-inset",
+    "prefix": "ion3-list-inset",
     "body": [
       "<ion-list inset $1>",
       "\t<ion-item *ngFor=\"let $2 of $3\" (click)=\"$4\" $5>",
@@ -408,7 +408,7 @@
     ]
   },
   "ion-list-thumbnails": {
-    "prefix": "ion2-list-thumbnails",
+    "prefix": "ion3-list-thumbnails",
     "body": [
       "<ion-list>",
       "\t<ion-item *ngFor=\"let $1 of $2\" $3>",
@@ -423,14 +423,14 @@
     ]
   },
   "ion-list-sliding": {
-    "prefix": "ion2-list-sliding",
+    "prefix": "ion3-list-sliding",
     "body": [
       "<ion-list>",
       "\t<ion-item-sliding $1>",
       "\t\t<ion-item $2>",
       "\t\t\t$3",
       "\t\t</ion-item>",
-      "\t\t<ion-item-options $4>",
+      "\t\t<ion-item-options side=\"$4\">",
       "\t\t\t<button ion-button $5>",
       "\t\t\t\t<ion-icon name=\"$6\"></ion-icon>",
       "\t\t\t\t$7",
@@ -442,13 +442,19 @@
     ]
   },
   "ion-list-item": {
-    "prefix": "ion2-item",
+    "prefix": "ion3-item",
     "body": [
       "<ion-item $1>$2</ion-item>"
     ]
   },
+  "ion-list-button": {
+    "prefix": "ion3-item-button",
+    "body": [
+      "<button ion-item $1 (click)=\"$3\">$2</button>"
+    ]
+  },
   "ion-list-item-group": {
-    "prefix": "ion2-list-item-group",
+    "prefix": "ion3-list-item-group",
     "body": [
       "<ion-item-group>",
       "\t$1",
@@ -456,7 +462,7 @@
     ]
   },
   "ion-list-item-divider": {
-    "prefix": "ion2-list-item-divider",
+    "prefix": "ion3-list-item-divider",
     "body": [
       "<ion-item-divider $1>",
       "\t$2",
@@ -464,15 +470,15 @@
     ]
   },
   "ion-list-item-header": {
-    "prefix": "ion2-list-item-header",
+    "prefix": "ion3-list-item-header",
     "body": [
-      "<ion-item-header>",
+      "<ion-list-header>",
       "\t$1",
-      "</ion-item-header>"
+      "</ion-list-header>"
     ]
   },
   "ion-list-item-avatar": {
-    "prefix": "ion2-list-item-avatar",
+    "prefix": "ion3-list-item-avatar",
     "body": [
       "<ion-item $1>",
       "\t<ion-avatar item-left>",
@@ -484,7 +490,7 @@
     ]
   },
   "ion-avatar": {
-    "prefix": "ion2-avatar",
+    "prefix": "ion3-avatar",
     "body": [
       "<ion-avatar item-left>",
       "\t<img src=\"$1\">",
@@ -492,7 +498,7 @@
     ]
   },
   "ion-menu": {
-    "prefix": "ion2-menu",
+    "prefix": "ion3-menu",
     "body": [
     "<ion-menu [content]=\"${1: contentVariable}\">",
     "\t<ion-header>",
@@ -513,7 +519,7 @@
     ]
   },
   "ion-radio-group": {
-    "prefix": "ion2-radio-group",
+    "prefix": "ion3-radio-group",
     "body": [
       "<ion-list radio-group>",
       "\t<ion-list-header>",
@@ -528,7 +534,7 @@
     ]
   },
   "ion-radio-item": {
-    "prefix": "ion2-radio-item",
+    "prefix": "ion3-radio-item",
     "body": [
       "<ion-item>",
       "\t<ion-label>$1</ion-label>",
@@ -537,7 +543,7 @@
     ]
   },
   "ion-range": {
-    "prefix": "ion2-range",
+    "prefix": "ion3-range",
     "body": [
       "<ion-item>",
       "\t<ion-range min=\"$1\" max=\"$2\" step=\"$3\" snaps=\"$4\" dualKnobs=\"$5\" pin=\"$6\" [(ngModel)]=\"${7:model}\">",
@@ -548,13 +554,13 @@
     ]
   },
   "ion-search-bar": {
-    "prefix": "ion2-search-bar",
+    "prefix": "ion3-search-bar",
     "body": [
       "<ion-searchbar (ionInput)=\"$1\"></ion-searchbar>"
     ]
   },
   "ion-segment": {
-    "prefix": "ion2-segment",
+    "prefix": "ion3-segment",
     "body": [
       "<ion-segment [(ngModel)]=\"$1\">",
       "\t<ion-segment-button value=\"$2\">",
@@ -565,7 +571,7 @@
     ]
   },
   "ion-segment-button": {
-    "prefix": "ion2-segment-button",
+    "prefix": "ion3-segment-button",
     "body": [
       "<ion-segment-button value=\"$1\">",
       "\t$2",
@@ -573,7 +579,7 @@
     ]
   },
   "ion-select": {
-    "prefix": "ion2-select",
+    "prefix": "ion3-select",
     "body": [
     "<ion-item>",
     "\t<ion-label>$1</ion-label>",
@@ -585,13 +591,13 @@
     ]
   },
   "ion-select-option": {
-    "prefix": "ion2-select-option",
+    "prefix": "ion3-select-option",
     "body": [
     "<ion-option value=\"$1\" $2>$3</ion-option>"
     ]
   },
   "ion-slides": {
-    "prefix": "ion2-slides",
+    "prefix": "ion3-slides",
     "body": [
       "<ion-slides pager>",
       "\t<ion-slide $1>",
@@ -602,7 +608,7 @@
     ]
   },
   "ion-slide": {
-    "prefix": "ion2-slide",
+    "prefix": "ion3-slide",
     "body": [
       "<ion-slide>",
       "\t$1",
@@ -610,7 +616,7 @@
     ]
   },
   "ion-tabs": {
-    "prefix": "ion2-tabs",
+    "prefix": "ion3-tabs",
     "body": [
       "<ion-tabs>",
       "\t<ion-tab tabTitle=\"$1\" [root]=\"$2\" $3></ion-tab>",
@@ -619,7 +625,7 @@
     ]
   },
   "ion-tabs-icons": {
-    "prefix": "ion2-tabs-icons",
+    "prefix": "ion3-tabs-icons",
     "body": [
       "<ion-tabs>",
       "\t<ion-tab tabIcon=\"$1\" [root]=\"$2\" $3></ion-tab>",
@@ -628,7 +634,7 @@
     ]
   },
   "ion-tabs-icons-text": {
-    "prefix": "ion2-tabs-icons-text",
+    "prefix": "ion3-tabs-icons-text",
     "body": [
       "<ion-tabs>",
       "\t<ion-tab tabIcon=\"$1\" tabTitle=\"$2\" [root]=\"$3\"></ion-tab>",
@@ -637,25 +643,25 @@
     ]
   },
   "ion-tab": {
-    "prefix": "ion2-tab",
+    "prefix": "ion3-tab",
     "body": [
       "<ion-tab tabTitle=\"$1\" [root]=\"$2\" $3></ion-tab>"
     ]
   },
   "ion-tab-icon": {
-    "prefix": "ion2-tab-icon",
+    "prefix": "ion3-tab-icon",
     "body": [
       "<ion-tab tabIcon=\"$1\" [root]=\"$2\" $3></ion-tab>"
     ]
   },
   "ion-tab-icon-text": {
-    "prefix": "ion2-tab-icon-text",
+    "prefix": "ion3-tab-icon-text",
     "body": [
       "<ion-tab tabIcon=\"$1\" tabTitle=\"$2\" [root]=\"$3\" $4></ion-tab>"
     ]
   },
   "ion-toogle": {
-    "prefix": "ion2-toogle",
+    "prefix": "ion3-toogle",
     "body": [
       "<ion-item>",
       "\t<ion-label>$1</ion-label>",
@@ -664,7 +670,7 @@
     ]
   },
   "ion-toogle-disabled": {
-    "prefix": "ion2-toogle-disabled",
+    "prefix": "ion3-toogle-disabled",
     "body": [
       "<ion-item>",
       "\t<ion-label>$1</ion-label>",
@@ -673,7 +679,7 @@
     ]
   },
   "ion-toolbar": {
-    "prefix": "ion2-toolbar",
+    "prefix": "ion3-toolbar",
     "body": [
     "<ion-toolbar $1>",
     "\t$2",
@@ -681,7 +687,7 @@
     ]
   },
   "ion-header": {
-    "prefix": "ion2-header",
+    "prefix": "ion3-header",
     "body": [
     "<ion-header>",
     "\t$1",
@@ -689,7 +695,7 @@
     ]
   },
   "ion-footer": {
-    "prefix": "ion2-footer",
+    "prefix": "ion3-footer",
     "body": [
     "<ion-footer>",
     "\t$1",
@@ -697,7 +703,7 @@
     ]
   },
   "ion-navbar": {
-    "prefix": "ion2-navbar",
+    "prefix": "ion3-navbar",
     "body": [
     "<ion-navbar $1>",
     "\t<ion-title>${2:title}</ion-title>",

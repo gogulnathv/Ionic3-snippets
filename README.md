@@ -1,96 +1,96 @@
-### HTML Snippets for Ionic framework v2
+### HTML Snippets for Ionic framework v3
 
-* Prefix for this snippets  ```ion2-```
+* Prefix for this snippets  ```ion3-```
 * List of supported components:
-    * Avatars ```ion2-avatar```
-    * Badges ```ion2-badge```
+    * Avatars ```ion3-avatar```
+    * Badges ```ion3-badge```
     * Button 
-        * ```ion2-button```
-        * ```ion2-button-block```
-        * ```ion2-button-clear```
-        * ```ion2-button-full```
-        * ```ion2-button-icon-left```
-        * ```ion2-button-icon-only```
-        * ```ion2-button-icon-right```
-        * ```ion2-button-large```
-        * ```ion2-button-outline```
-        * ```ion2-button-round```
-        * ```ion2-button-small```
+        * ```ion3-button```
+        * ```ion3-button-block```
+        * ```ion3-button-clear```
+        * ```ion3-button-full```
+        * ```ion3-button-icon-left```
+        * ```ion3-button-icon-only```
+        * ```ion3-button-icon-right```
+        * ```ion3-button-large```
+        * ```ion3-button-outline```
+        * ```ion3-button-round```
+        * ```ion3-button-small```
     * Buttons container 
-        * ```ion2-buttons```
-        * ```ion2-buttons-end```
-        * ```ion2-buttons-start```
+        * ```ion3-buttons```
+        * ```ion3-buttons-end```
+        * ```ion3-buttons-start```
     * Cards 
-        * ```ion2-card```
-        * ```ion2-card-back-image```
-        * ```ion2-card-image```
-        * ```ion2-card-map```
-        * ```ion2-card-social```
-    * Checkbox ```ion2-checkbox```
+        * ```ion3-card```
+        * ```ion3-card-back-image```
+        * ```ion3-card-image```
+        * ```ion3-card-map```
+        * ```ion3-card-social```
+    * Checkbox ```ion3-checkbox```
     * Column 
-        * ```ion2-col```
-        * ```ion2-col-10```
-        * ```ion2-col-20```
-        * ```ion2-col-25```
-        * ```ion2-col-33```
-        * ```ion2-col-50```
-        * ```ion2-col-67```
-        * ```ion2-col-75```
-        * ```ion2-col-80```
-        * ```ion2-col-90```
-    * DateTime ```ion2-datetime```
+        * ```ion3-col```
+        * ```ion3-col-10```
+        * ```ion3-col-20```
+        * ```ion3-col-25```
+        * ```ion3-col-33```
+        * ```ion3-col-50```
+        * ```ion3-col-67```
+        * ```ion3-col-75```
+        * ```ion3-col-80```
+        * ```ion3-col-90```
+    * DateTime ```ion3-datetime```
     * FABs 
-        * ```ion2-fab```
-        * ```ion2-fab-list```
-        * ```ion2-fab-mini```
+        * ```ion3-fab```
+        * ```ion3-fab-list```
+        * ```ion3-fab-mini```
     * Footers ```ion-footer```
-    * Grid ```ion2-grid```
+    * Grid ```ion3-grid```
     * Headers ```ion-header```
     * Icons 
-        * ```ion2-icon```
-        * ```ion2-icon-isactive```
+        * ```ion3-icon```
+        * ```ion3-icon-isactive```
     * Inputs 
-        * ```ion2-input```
-        * ```ion2-input-fixed```
-        * ```ion2-input-floating```
-        * ```ion2-input-placeholder```
-        * ```ion2-input-stacked```
+        * ```ion3-input```
+        * ```ion3-input-fixed```
+        * ```ion3-input-floating```
+        * ```ion3-input-placeholder```
+        * ```ion3-input-stacked```
     * Lists 
-        * ```ion2-list```
-        * ```ion2-list-inset```
-        * ```ion2-list-item```
-        * ```ion2-list-item-avatar```
-        * ```ion2-list-item-divider```
-        * ```ion2-list-item-group```
-        * ```ion2-list-item-header```
-        * ```ion2-list-no-lines```
-        * ```ion2-list-sliding```
-        * ```ion2-list-thumbnails```
-    * Menus ```ion2-menu```
-    * Navbars ```ion2-navbar```
+        * ```ion3-list```
+        * ```ion3-list-inset```
+        * ```ion3-list-item```
+        * ```ion3-list-item-avatar```
+        * ```ion3-list-item-divider```
+        * ```ion3-list-item-group```
+        * ```ion3-list-item-header```
+        * ```ion3-list-no-lines```
+        * ```ion3-list-sliding```
+        * ```ion3-list-thumbnails```
+    * Menus ```ion3-menu```
+    * Navbars ```ion3-navbar```
     * Radio buttons 
-        * ```ion2-radio-group```
-        * ```ion2-radio-item```
-    * Range ```ion2-range```
-    * Row ```ion2-row```
-    * SearchBar ```ion2-search-bar```
+        * ```ion3-radio-group```
+        * ```ion3-radio-item```
+    * Range ```ion3-range```
+    * Row ```ion3-row```
+    * SearchBar ```ion3-search-bar```
     * Segments 
-        * ```ion2-segment```
-        * ```ion2-segment-button```
+        * ```ion3-segment```
+        * ```ion3-segment-button```
     * Select input 
-        * ```ion2-select```
-        * ```ion2-select-option```
+        * ```ion3-select```
+        * ```ion3-select-option```
     * Slides 
-        * ```ion2-slide```
-        * ```ion2-slides```
+        * ```ion3-slide```
+        * ```ion3-slides```
     * Tabs 
-        * ```ion2-tab```
-        * ```ion2-tab-icon```
-        * ```ion2-tab-icon-text```
-        * ```ion2-tabs```
-        * ```ion2-tabs-icons```
-        * ```ion2-tabs-icons-text```
+        * ```ion3-tab```
+        * ```ion3-tab-icon```
+        * ```ion3-tab-icon-text```
+        * ```ion3-tabs```
+        * ```ion3-tabs-icons```
+        * ```ion3-tabs-icons-text```
     * Toogles 
-        * ```ion2-toogle```
-        * ```ion2-toogle-disabled```
-    * Toolbars ```ion2-toolbar```
+        * ```ion3-toogle```
+        * ```ion3-toogle-disabled```
+    * Toolbars ```ion3-toolbar```
