@@ -694,6 +694,14 @@
     "</ion-header>"
     ]
   },
+  "ion-content": {
+    "prefix": "ion3-content",
+    "body": [
+    "<ion-content>",
+    "\t$1",
+    "</ion-content>"
+    ]
+  },
   "ion-footer": {
     "prefix": "ion3-footer",
     "body": [
