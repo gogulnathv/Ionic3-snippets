@@ -43,9 +43,10 @@
         * ```ion3-fab```
         * ```ion3-fab-list```
         * ```ion3-fab-mini```
-    * Footers ```ion-footer```
+    * Footers ```ion3-footer```
     * Grid ```ion3-grid```
-    * Headers ```ion-header```
+    * Headers ```ion3-header```
+    * Content ```ion3-content```
     * Icons 
         * ```ion3-icon```
         * ```ion3-icon-isactive```
